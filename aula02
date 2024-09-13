@@ -1,0 +1,4 @@
+# Comentário de uuma linha 
+
+print("Helena 'lene' silva") # Cometário no código 
+print ('Helena"lene" silva')
